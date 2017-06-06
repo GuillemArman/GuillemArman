@@ -1,5 +1,5 @@
-# Manager.io 
+# Guillem Arman
 
-I am Guillem Arman
- #prube
- ##prueba 2
+Hi there! I am a student from UPC 
+ # prube
+ ## prueba 2

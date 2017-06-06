@@ -2,5 +2,5 @@
 
 ![](http://imgur.com/ZEGANXa.png)
 
-Hi there! I am a student from UPC 
+Hi there! I am a student from UPC  
 

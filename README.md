@@ -30,6 +30,7 @@ I was the responsible of balancing the levels too (where I spend most of the tim
 
 I worked on some animations that we also haven't include such as: Dying animation, Waking up animation and Sleeping animation.
 
+I did the first dying function too.
 
 
 

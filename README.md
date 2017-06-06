@@ -13,3 +13,21 @@ Here are some screenshots of the tools I just mentioned while we were working:
 To check the excel we used click [here](https://docs.google.com/spreadsheets/d/16c9s4nma7ww8W2FWcExLf671DLfWdYrvP_H8hiFsEHM/edit#gid=0)
 
 I also recorded all the meetings in a word. Check all the meetings information [here](https://docs.google.com/document/d/1vjsDI6wrHsJFBWOjpigXHiGC8xT_mEdfirNKqh5MNdA/edit)
+
+## A Dream to the Past
+
+I started the project working on the wiki. 
+I was the responsible of choosing what audio would be on the game. From themes to fx.
+On the design part I designed and tiled the overworld map despite of we decided not to include it at the end. Here there is a picture of it:
+![](http://imgur.com/yp3EHdg.png)
+
+I also contribute to the dungeons design and creating the first maps with tiled.
+I was the responsible of balancing the levels too (where I spend most of the time).
+
+![](http://imgur.com/5Md06Nu.png)
+
+I worked on some animations that we also haven't include such as: Dying animation, Waking up animation and Sleeping animation.
+
+
+
+

@@ -14,6 +14,8 @@ To check the excel we used click [here](https://docs.google.com/spreadsheets/d/1
 
 I also recorded all the meetings in a word. Check all the meetings information [here](https://docs.google.com/document/d/1vjsDI6wrHsJFBWOjpigXHiGC8xT_mEdfirNKqh5MNdA/edit)
 
+I also implemented Brofiler.
+
 ## A Dream to the Past
 
 I started the project working on the wiki. 

@@ -23,14 +23,14 @@ I was the responsible of choosing what audio would be on the game. From themes t
 On the design part I designed and tiled the overworld map despite of we decided not to include it at the end. Here there is a picture of it:
 ![](http://imgur.com/yp3EHdg.png)
 
-I also contribute to the dungeons design and creating the first maps with tiled.
-I was the responsible of balancing the levels too (where I spend most of the time).
+- I also contribute to the dungeons design and creating the first maps with tiled.
+- I was the responsible of balancing the levels too (where I spend most of the time).
 
 ![](http://imgur.com/5Md06Nu.png)
 
-I worked on some animations that we also haven't include such as: Dying animation, Waking up animation and Sleeping animation.
+- I worked on some animations that we also haven't include such as: Dying animation, Waking up animation and Sleeping animation.
 
-I did the first dying function too.
+- I did the first dying function too.
 
 
 
